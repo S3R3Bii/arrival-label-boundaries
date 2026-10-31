@@ -19,4 +19,4 @@ This is new admissible source-access evidence after the failed form, not an unch
 
 ## Native capture and independent reconciliation
 
-The indexed archive was captured31October2026 UTC with SHA256 fe089b45523f9d4ac0ccd0e176a543d274e914ee5ae5bd384dbaafc7dc06ebfd. It contains547,271 national records;46,621 fixed-destination records are retained in21,303 sufficient cells. A separate pandas C parser,SQLite key classification and exact Fraction source values pass131,867 finite conditions. These are source controls,not threshold results or cross-region equivalence.
+The indexed archive was captured 31 October 2026 UTC with SHA256 fe089b45523f9d4ac0ccd0e176a543d274e914ee5ae5bd384dbaafc7dc06ebfd. It contains 547,271 national records; 46,621 fixed-destination records are retained in 21,303 sufficient cells. A separate pandas C parser, SQLite key classification and exact Fraction source values pass131,867 finite conditions. These are source controls, not threshold results or cross-region equivalence.

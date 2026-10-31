@@ -1,0 +1,44 @@
+[
+  {
+    "destination": "ORD",
+    "measure": "RECORDED_MINUTE_RATE",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  },
+  {
+    "destination": "ATL",
+    "measure": "RECORDED_MINUTE_RATE",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 16
+  },
+  {
+    "destination": "ORD",
+    "measure": "EUROPEAN_OTP15",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  },
+  {
+    "destination": "ATL",
+    "measure": "PHYSICAL_SECOND_RATE",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  },
+  {
+    "destination": "ORD",
+    "measure": "CARRIER_SAFETY_RANK",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  },
+  {
+    "destination": "ATL",
+    "measure": "TRANSFER_SCORE",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  },
+  {
+    "destination": "MISSING",
+    "measure": "RECORDED_MINUTE_RATE",
+    "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+    "cutoff": 15
+  }
+]
