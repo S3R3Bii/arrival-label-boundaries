@@ -5,3 +5,5 @@ A small change in a delay cutoff can change a benchmark's target even when the u
 The original US-to-Europe forecast-transfer study remains unexecuted. Different threshold definitions, reporting populations and historical vintages prevent a valid direct transfer score. This separate US source audit will retain cancellations, diversions, unavailable fields and complete threshold counts, without treating a recorded-minute counterfactual as a European rate.
 
 Read the [fixed protocol](PROTOCOL.md), [source contract](data/source_contract.json), [data rights](DATA_RIGHTS.md) and [original hold](SOURCE_HISTORY.md). No flight records have been retrieved. Source, numerical, privacy, rendering and exact-head release gates remain pending.
+
+**Source access is incomplete.** The fixed download form returned “Cannot display data”; one diagnostic retry returned the same result. No archive or flight-row values were obtained. Read [the source-access receipt](SOURCE_ACCESS.md). This repository is a protocol, not a completed study or release.

@@ -1,0 +1,60 @@
+{
+  "observed_utc": "2026-10-31T02:51:20.695Z",
+  "source_url": "https://www.transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ",
+  "selection": {
+    "dataset": "Reporting Carrier On-Time Performance (1987-present)",
+    "year": 2024,
+    "month": 1,
+    "geography": "All",
+    "prezipped": true
+  },
+  "status": "SOURCE_FORM_FAILED_BEFORE_ARCHIVE",
+  "flight_records_retrieved": 0,
+  "download_path_obtained": false,
+  "targeted_retry": "Same source/month; one instrumented retry; same site dialog",
+  "observations": [
+    {
+      "sequence": 58,
+      "method": "Network.requestWillBeSent",
+      "url": "https://www.transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ"
+    },
+    {
+      "sequence": 63,
+      "method": "Network.responseReceived",
+      "url": "https://www.transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ",
+      "status": 200
+    },
+    {
+      "sequence": 69,
+      "method": "Network.requestWillBeSent",
+      "url": "https://www.transtats.bts.gov/styles/global.css"
+    },
+    {
+      "sequence": 70,
+      "method": "Network.requestWillBeSent",
+      "url": "https://www.transtats.bts.gov/styles/rita_main.css"
+    },
+    {
+      "sequence": 87,
+      "method": "Network.requestWillBeSent",
+      "url": "https://www.transtats.bts.gov/images/smalltop.gif"
+    },
+    {
+      "sequence": 98,
+      "method": "Network.responseReceived",
+      "url": "https://www.transtats.bts.gov/styles/global.css",
+      "status": 200
+    },
+    {
+      "sequence": 101,
+      "method": "Network.responseReceived",
+      "url": "https://www.transtats.bts.gov/styles/rita_main.css",
+      "status": 200
+    },
+    {
+      "sequence": 165,
+      "method": "Page.javascriptDialogOpening",
+      "message": "(loadMyTable) Cannot display data."
+    }
+  ]
+}

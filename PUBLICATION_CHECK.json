@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-31T02:44:21.927290+00:00",
+  "timestamp_utc": "2026-10-31T02:52:23.887269+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 11,
+  "files_checked": 14,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -10,9 +10,11 @@
     "DATA_RIGHTS.md": "7d5664b0411b2f4a4266772dfdccb38c1e9af41f961f2fe8da867a744c0278d2",
     "LICENSE": "039d600c2b86fc1d8d454bb4eb857bef5ed25416514c62a91d4533a25c1889f3",
     "PROTOCOL.md": "c262da94afdf45efd6eebbb7a41e44b117f4b4e2611f193b63e9cf78c121f127",
-    "README.md": "abe997dd0b26b0cf8f5d3c996ce416b5605377ed9b5563c7bf88fca531a3ac66",
+    "README.md": "50f0922bd079d303e4b6ec3f3f6fb599b726d11e9bb18f0cdbd96ccc0fb6edfa",
+    "SOURCE_ACCESS.md": "4e1ffba1e1fb5f6900a09f564be8cf6101303603db5d02884b08bfb54d03c056",
     "SOURCE_HISTORY.md": "a5d6609ea5e523f1ae76852619ed2d500412f22ebde125d0b4fc481146d75959",
     "data/documentation_manifest.json": "b2d0c45f83391d3be06b0d4fdc8c0c6e955f6bcecbfd9c61cc8c8ec7c4799ea1",
+    "data/source_access.json": "53ba192284a5a8e1c68713587494fa25ed521df6e6daee0f40e5622bb423a2b1",
     "data/source_contract.json": "513f660c3cca9ea6220590aa1cc624c5527a062a70f9f96927e886fe39ac3113",
     "requirements-source.txt": "4b8183101fd19f071771805a42a31fbb234a7961921fdb8b783a279755a1b5d5",
     "requirements.txt": "839de6101b0219d7dd3e6e2e6236dd1ffc7c4fdd16268543d703d5749a6fcff9"
