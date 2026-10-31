@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "finite_conditions": 2947,
+  "complete_accounts": 90,
+  "threshold_cases": 270,
+  "examples": 7,
+  "methods": "Independent SQLite weighted predicates and exact Fraction arithmetic;complete airport/day/carrier sets;no production metric or exercise imports.",
+  "scope": "Current source counts and fixed recorded-label comparisons,not universal correctness,physical seconds or cross-region calibration."
+}

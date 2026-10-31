@@ -1,0 +1,29 @@
+{
+  "url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip",
+  "status": "PASS_NATIVE_CAPTURE",
+  "started_utc": "2026-10-31T04:08:30.714425+00:00",
+  "content_type": "application/x-zip-compressed",
+  "advertised_bytes": "27573265",
+  "last_modified": "Thu, 11 Apr 2024 17:42:11 GMT",
+  "http_status": 200,
+  "bytes": 27573265,
+  "sha256": "fe089b45523f9d4ac0ccd0e176a543d274e914ee5ae5bd384dbaafc7dc06ebfd",
+  "completed_utc": "2026-10-31T04:08:59.736292+00:00",
+  "members": [
+    {
+      "name": "On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2024_1.csv",
+      "bytes": 246830488,
+      "compressed_bytes": 27570579,
+      "crc32": 3796282606,
+      "sha256": "e92febedf6cd51bd87eca0be2fba3f5c1f383b1da41119db7f1cc1a26c4d3286"
+    },
+    {
+      "name": "readme.html",
+      "bytes": 12152,
+      "compressed_bytes": 2244,
+      "crc32": 2658551195,
+      "sha256": "0ba795b87d903d1b556ea93c19924cab0d240deb478e53a2f551b37ea6686867"
+    }
+  ],
+  "scope": "Exact indexed January2024 reporting-carrier archive;not original publication,unchanging historical truth or Europe-matched data."
+}

@@ -42,5 +42,9 @@
   "local_clock": "source HHMM,not UTC",
   "physical_seconds": "UNESTABLISHED",
   "European_rate": "UNESTABLISHED",
-  "original_transfer_model": "UNEXECUTED"
+  "original_transfer_model": "UNEXECUTED",
+  "direct_archive_url": "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip",
+  "indexed_archive_bytes": 27573265,
+  "archive_index": "https://transtats.bts.gov/PREZIP/",
+  "archive_index_sha256": "eb2cb6c67c11d736b799f385197a521a085b908326aef5df0a533624126984cb"
 }

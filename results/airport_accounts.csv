@@ -1,0 +1,3 @@
+destination,source_records,eligible_records,missing_key_records,duplicate_key_records,unknown_operation_flag_records,both_operation_flags_records,cancelled_records,diverted_records,unknown_delay_records,raw_cancelled_flag_records,raw_diverted_flag_records,official_indicator_known,official_indicator_unknown,official_indicator_positive,official_indicator_mismatch,count_ge14,count_ge15,count_ge16,rate_ge14,rate_ge15,rate_ge16,count_14_to_15,count_15_to_16,boundary_fraction,boundary_fraction_of_ge15
+ORD,20327,18805,0,0,0,0,1479,43,0,1479,43,18805,0,4989,0,5122,4989,4858,5122/18805,4989/18805,4858/18805,133,131,131/18805,131/4989
+ATL,26294,25902,0,0,0,0,311,81,0,311,81,25902,0,5377,0,5571,5377,5233,619/2878,5377/25902,5233/25902,194,144,8/1439,144/5377

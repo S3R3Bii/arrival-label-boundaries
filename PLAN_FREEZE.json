@@ -1,0 +1,32 @@
+{
+  "source_checkpoint": "cdfd11789c85955c8072ebce42c4cfe4a68de46f",
+  "hashes": {
+    "DATA_RIGHTS.md": "7d5664b0411b2f4a4266772dfdccb38c1e9af41f961f2fe8da867a744c0278d2",
+    "PROTOCOL.md": "67bd2af6b876543c6e8fed513b3694821dcca4f0fddb2cb787134101e7bd9d8c",
+    "SOURCE_ACCESS.md": "3a5b23dee9b4eeec788f9ff4f42eb7aeed3963e4d30a9b662f0698ce90581ab0",
+    "SOURCE_HISTORY.md": "a5d6609ea5e523f1ae76852619ed2d500412f22ebde125d0b4fc481146d75959",
+    "data/capture_receipt.json": "3c3dc5305bed173e52eedaea040cb3e6be79e4913659a1a4959f5a22f4dc0245",
+    "data/day_carrier_cells.csv": "9924dd424edabb53aea81ce3d4ae4e709060ba300cd5cbfb07ab7738d2070ce0",
+    "data/documentation_manifest.json": "05e0b220d52d8881f5971eebad30659ee2fdfbd48acc3241a70e930a25bc748d",
+    "data/exercise_inputs.json": "9752829081e5b66faf9c37bd5a4b17a34c682ef4747a7eb44f351319950c1d24",
+    "data/native_verification.json": "857d8083c49fcb2031f1e193e3409d1f1917b99976c0d8c18094badcba97988e",
+    "data/projection_receipt.json": "5a51da58340288d1d880072e062f972dd774b52305fa290da871bbd342cfa10a",
+    "data/source_access.json": "53ba192284a5a8e1c68713587494fa25ed521df6e6daee0f40e5622bb423a2b1",
+    "data/source_catalog.json": "b6ff479aa35fbd3788aa9acf20b3eb5341862adb1b11c91c07a78f920221fe1c",
+    "data/source_contract.json": "3e46bfcd79d6ad46614f4c79036dce26794358bf58878af69b70f04e6bb82d2a",
+    "requirements-source.txt": "4b8183101fd19f071771805a42a31fbb234a7961921fdb8b783a279755a1b5d5",
+    "requirements.txt": "839de6101b0219d7dd3e6e2e6236dd1ffc7c4fdd16268543d703d5749a6fcff9",
+    "src/analyze.py": "ed1763d59878cafe4d0a935c509028072cc85b90139f4ddca52a719368a90c4d",
+    "src/capture_source.py": "8c72efbe26748d8028176dd75a0ec93b6aff3deedb73b832961cc823c68bd3a4",
+    "src/check_analysis.py": "683acf1a50392c60d6fadc9e9054867158d74254fdebe5d04de66a1431a055fb",
+    "src/check_native.py": "0f6bdc6a3d6f1860601270cd18734a305a270ef91731bd133b3073d18ef31bb5",
+    "src/check_source.py": "3d922a015ad80299559308ddca1e5c4d21c8b470ae0ecb9da673563de8177f9d",
+    "src/exercise.py": "41b256f6a9575590c1e02665302cff212ff971097af7a6d052bdf7293ae4f6cd",
+    "src/freeze.py": "0462498e4793a0965b50cb23e322befe9c264ba5b59020d87d649dd9ed954a21",
+    "src/metrics.py": "5710fabf3aaac1ba85db63491d5bdbae5e47598d3927dfcc028dbcaea6994527",
+    "src/project_source.py": "9607ae2c392d4ab81b896e8912ee4fe18f21d0fcf884e04d87dd7aa778de3080",
+    "src/replay.py": "c02ad8c0369be14b7008fb29da4abf3a2c0897633467d42a42d99184ef1948d4",
+    "tests/test_boundaries.py": "ca0dbee4fab3add3bc943600aa7ac7cf897a4df8e03c9a8b047801cee7ca660b"
+  },
+  "qualification": "Actual source/method dependency hashes fixed before recorded-threshold comparisons. Current source values were visible during capture and reconciliation; not blinded."
+}

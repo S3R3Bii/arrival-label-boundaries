@@ -1,0 +1,2220 @@
+[
+  {
+    "name": "threshold_rates",
+    "artists": [
+      {
+        "gid": "threshold-ORD-14",
+        "kind": "threshold",
+        "destination": "ORD",
+        "cutoff": 14,
+        "value": 27.23743685190109,
+        "position": -0.24,
+        "thickness": 0.24,
+        "label": "27.24%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      },
+      {
+        "gid": "threshold-ATL-14",
+        "kind": "threshold",
+        "destination": "ATL",
+        "cutoff": 14,
+        "value": 21.507991660875607,
+        "position": 0.76,
+        "thickness": 0.24,
+        "label": "21.51%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      },
+      {
+        "gid": "threshold-ORD-15",
+        "kind": "threshold",
+        "destination": "ORD",
+        "cutoff": 15,
+        "value": 26.530178144110607,
+        "position": 0.0,
+        "thickness": 0.24,
+        "label": "26.53%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      },
+      {
+        "gid": "threshold-ATL-15",
+        "kind": "threshold",
+        "destination": "ATL",
+        "cutoff": 15,
+        "value": 20.759014747895915,
+        "position": 1.0,
+        "thickness": 0.24,
+        "label": "20.76%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      },
+      {
+        "gid": "threshold-ORD-16",
+        "kind": "threshold",
+        "destination": "ORD",
+        "cutoff": 16,
+        "value": 25.83355490561021,
+        "position": 0.24,
+        "thickness": 0.24,
+        "label": "25.83%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      },
+      {
+        "gid": "threshold-ATL-16",
+        "kind": "threshold",
+        "destination": "ATL",
+        "cutoff": 16,
+        "value": 20.20307312176666,
+        "position": 1.24,
+        "thickness": 0.24,
+        "label": "20.20%",
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 79.2,
+          "top": 83.15999999999998,
+          "width": 590.4000000000001,
+          "height": 241.56000000000003,
+          "xlim": [
+            -0.446,
+            1.4460000000000002
+          ],
+          "ylim": [
+            0.0,
+            35.0
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "060a36720067696cf83ccb95c69b9889032820fd51b194ed6e3a5c9924981f3c",
+      "svg": "9604935b870f20eab5966ebc9e085f1dfd61bef32301ffd4cf70b112d99fab77",
+      "pdf": "e072a12d10942213a456e2e73c06bdd54e9e052f0bb9e8686c4e28061f86a2ca"
+    }
+  },
+  {
+    "name": "daily_boundary",
+    "artists": [
+      {
+        "gid": "daily-ORD-2024-01-01",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-01",
+        "value": 0.45248868778280543,
+        "position": 0.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-02",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-02",
+        "value": 0.4297994269340974,
+        "position": 1.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-03",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-03",
+        "value": 0.2861230329041488,
+        "position": 2.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-04",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-04",
+        "value": 0.4444444444444444,
+        "position": 3.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-05",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-05",
+        "value": 0.8968609865470852,
+        "position": 4.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-06",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-06",
+        "value": 1.941747572815534,
+        "position": 5.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-07",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-07",
+        "value": 1.1940298507462686,
+        "position": 6.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-08",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-08",
+        "value": 0.6191950464396285,
+        "position": 7.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-09",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-09",
+        "value": 1.4388489208633093,
+        "position": 8.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-10",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-10",
+        "value": 0.33783783783783783,
+        "position": 9.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-11",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-11",
+        "value": 0.6144393241167435,
+        "position": 10.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-12",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-12",
+        "value": 0.0,
+        "position": 11.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-13",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-13",
+        "value": 0.7984031936127745,
+        "position": 12.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-14",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-14",
+        "value": 1.002004008016032,
+        "position": 13.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-15",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-15",
+        "value": 0.7936507936507936,
+        "position": 14.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-16",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-16",
+        "value": 1.5238095238095237,
+        "position": 15.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-17",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-17",
+        "value": 0.6644518272425249,
+        "position": 16.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-18",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-18",
+        "value": 0.15384615384615385,
+        "position": 17.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-19",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-19",
+        "value": 1.228878648233487,
+        "position": 18.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-20",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-20",
+        "value": 1.2411347517730495,
+        "position": 19.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-21",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-21",
+        "value": 0.9202453987730062,
+        "position": 20.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-22",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-22",
+        "value": 0.6837606837606838,
+        "position": 21.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-23",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-23",
+        "value": 0.5376344086021505,
+        "position": 22.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-24",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-24",
+        "value": 0.6666666666666666,
+        "position": 23.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-25",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-25",
+        "value": 1.4657980456026058,
+        "position": 24.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-26",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-26",
+        "value": 0.2994011976047904,
+        "position": 25.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-27",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-27",
+        "value": 0.18148820326678766,
+        "position": 26.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-28",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-28",
+        "value": 0.4491017964071856,
+        "position": 27.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-29",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-29",
+        "value": 0.0,
+        "position": 28.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-30",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-30",
+        "value": 0.3194888178913738,
+        "position": 29.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ORD-2024-01-31",
+        "kind": "daily",
+        "destination": "ORD",
+        "day": "2024-01-31",
+        "value": 0.15772870662460567,
+        "position": 30.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 81.00000000000001,
+          "width": 673.1999999999999,
+          "height": 156.77419354838707,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-01",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-01",
+        "value": 0.40268456375838924,
+        "position": 0.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-02",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-02",
+        "value": 0.2304147465437788,
+        "position": 1.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-03",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-03",
+        "value": 0.35799522673031026,
+        "position": 2.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-04",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-04",
+        "value": 0.2375296912114014,
+        "position": 3.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-05",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-05",
+        "value": 0.23837902264600716,
+        "position": 4.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-06",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-06",
+        "value": 0.0,
+        "position": 5.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-07",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-07",
+        "value": 0.7117437722419929,
+        "position": 6.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-08",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-08",
+        "value": 0.11834319526627218,
+        "position": 7.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-09",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-09",
+        "value": 1.193633952254642,
+        "position": 8.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-10",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-10",
+        "value": 0.7425742574257426,
+        "position": 9.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-11",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-11",
+        "value": 0.819672131147541,
+        "position": 10.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-12",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-12",
+        "value": 0.8433734939759037,
+        "position": 11.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-13",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-13",
+        "value": 0.8032128514056225,
+        "position": 12.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-14",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-14",
+        "value": 1.277139208173691,
+        "position": 13.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-15",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-15",
+        "value": 0.4672897196261682,
+        "position": 14.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-16",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-16",
+        "value": 0.6273525721455459,
+        "position": 15.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-17",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-17",
+        "value": 0.8363201911589009,
+        "position": 16.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-18",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-18",
+        "value": 0.6607929515418502,
+        "position": 17.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-19",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-19",
+        "value": 0.5530973451327433,
+        "position": 18.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-20",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-20",
+        "value": 0.26525198938992045,
+        "position": 19.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-21",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-21",
+        "value": 0.3250270855904659,
+        "position": 20.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-22",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-22",
+        "value": 0.44642857142857145,
+        "position": 21.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-23",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-23",
+        "value": 1.0613207547169812,
+        "position": 22.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-24",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-24",
+        "value": 1.1904761904761905,
+        "position": 23.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-25",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-25",
+        "value": 0.4509582863585118,
+        "position": 24.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-26",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-26",
+        "value": 0.32894736842105265,
+        "position": 25.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-27",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-27",
+        "value": 0.8053691275167785,
+        "position": 26.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-28",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-28",
+        "value": 0.32362459546925565,
+        "position": 27.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-29",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-29",
+        "value": 0.11467889908256881,
+        "position": 28.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-30",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-30",
+        "value": 0.36855036855036855,
+        "position": 29.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      },
+      {
+        "gid": "daily-ATL-2024-01-31",
+        "kind": "daily",
+        "destination": "ATL",
+        "day": "2024-01-31",
+        "value": 0.6134969325153374,
+        "position": 30.0,
+        "thickness": 0.72,
+        "orientation": "vertical",
+        "axis_points": {
+          "left": 71.28,
+          "top": 313.0258064516129,
+          "width": 673.1999999999999,
+          "height": 156.7741935483871,
+          "xlim": [
+            -1.896,
+            31.896
+          ],
+          "ylim": [
+            0.0,
+            2.4854368932038837
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "7d968d15c5e0e2c1fb93b350eaf30cfd6cf3ea73cdbbd5643a115dd6fc417932",
+      "svg": "12aec966086c7e9b894e001283f91c2adaa507fdeb6c360f13a9b1484ad27f71",
+      "pdf": "1f261d696c5ab7906e52c8a86e31d976c1d017d54a68baf2144b62f5821f047f"
+    }
+  },
+  {
+    "name": "source_denominators",
+    "artists": [
+      {
+        "gid": "source-ORD-missing_key_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "missing_key_records",
+        "value": 0.0,
+        "position": -0.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-duplicate_key_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "duplicate_key_records",
+        "value": 0.0,
+        "position": 0.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-unknown_operation_flag_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "unknown_operation_flag_records",
+        "value": 0.0,
+        "position": 1.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-both_operation_flags_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "both_operation_flags_records",
+        "value": 0.0,
+        "position": 2.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-cancelled_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "cancelled_records",
+        "value": 1479.0,
+        "position": 3.84,
+        "thickness": 0.32,
+        "label": "1,479",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-diverted_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "diverted_records",
+        "value": 43.0,
+        "position": 4.84,
+        "thickness": 0.32,
+        "label": "43",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-unknown_delay_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "unknown_delay_records",
+        "value": 0.0,
+        "position": 5.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-eligible_records",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "eligible_records",
+        "value": 18805.0,
+        "position": 6.84,
+        "thickness": 0.32,
+        "label": "18,805",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-missing_key_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "missing_key_records",
+        "value": 0.0,
+        "position": 0.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-duplicate_key_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "duplicate_key_records",
+        "value": 0.0,
+        "position": 1.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-unknown_operation_flag_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "unknown_operation_flag_records",
+        "value": 0.0,
+        "position": 2.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-both_operation_flags_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "both_operation_flags_records",
+        "value": 0.0,
+        "position": 3.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-cancelled_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "cancelled_records",
+        "value": 311.0,
+        "position": 4.16,
+        "thickness": 0.32,
+        "label": "311",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-diverted_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "diverted_records",
+        "value": 81.0,
+        "position": 5.16,
+        "thickness": 0.32,
+        "label": "81",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-unknown_delay_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "unknown_delay_records",
+        "value": 0.0,
+        "position": 6.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-eligible_records",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "eligible_records",
+        "value": 25902.0,
+        "position": 7.16,
+        "thickness": 0.32,
+        "label": "25,902",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 126.72,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            7.702,
+            -0.7020000000000001
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-official_indicator_known",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "official_indicator_known",
+        "value": 18805.0,
+        "position": -0.16,
+        "thickness": 0.32,
+        "label": "18,805",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-official_indicator_unknown",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "official_indicator_unknown",
+        "value": 0.0,
+        "position": 0.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      },
+      {
+        "gid": "source-ORD-official_indicator_mismatch",
+        "kind": "source",
+        "destination": "ORD",
+        "field": "official_indicator_mismatch",
+        "value": 0.0,
+        "position": 1.84,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-official_indicator_known",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "official_indicator_known",
+        "value": 25902.0,
+        "position": 0.16,
+        "thickness": 0.32,
+        "label": "25,902",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-official_indicator_unknown",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "official_indicator_unknown",
+        "value": 0.0,
+        "position": 1.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      },
+      {
+        "gid": "source-ATL-official_indicator_mismatch",
+        "kind": "source",
+        "destination": "ATL",
+        "field": "official_indicator_mismatch",
+        "value": 0.0,
+        "position": 2.16,
+        "thickness": 0.32,
+        "label": "0",
+        "orientation": "horizontal",
+        "axis_points": {
+          "left": 505.03813953488367,
+          "top": 88.91999999999997,
+          "width": 239.44186046511626,
+          "height": 313.56,
+          "xlim": [
+            0.0,
+            32636.52
+          ],
+          "ylim": [
+            2.452,
+            -0.45199999999999996
+          ]
+        }
+      }
+    ],
+    "asset_sha256": {
+      "png": "417716dd74085ce0d26a8f529690c3064b39d5e1dd553047f07ec9d75c0cd861",
+      "svg": "7f58a18ac6425ee6127f980e732dc3235d5db68880d90669cdd8af4615fe2b64",
+      "pdf": "d958b361cc75e7855373657d95ee1f61508c8f5a517b19fac3d4b5e8111875c3"
+    }
+  }
+]

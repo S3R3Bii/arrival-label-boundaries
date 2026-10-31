@@ -14,5 +14,12 @@
     "bytes": 119270,
     "sha256": "ae753d6dc7a6d597f1c87af169af0ffb3d75ea8918549c34ffb64cf98808c14a",
     "captured_utc": "2026-10-31T02:41:55.165535+00:00"
+  },
+  {
+    "url": "https://transtats.bts.gov/PREZIP/",
+    "status": 200,
+    "bytes": 158785,
+    "sha256": "eb2cb6c67c11d736b799f385197a521a085b908326aef5df0a533624126984cb",
+    "retrieved_utc": "2026-10-31T04:07:11.514349+00:00"
   }
 ]

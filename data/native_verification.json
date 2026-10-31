@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "finite_conditions": 131867,
+  "national_records": 547271,
+  "selected_records": 46621,
+  "sufficient_cells": 21303,
+  "native_archive_sha256": "fe089b45523f9d4ac0ccd0e176a543d274e914ee5ae5bd384dbaafc7dc06ebfd",
+  "pandas_version": "2.3.3",
+  "hashes": {
+    "data/day_carrier_cells.csv": "9924dd424edabb53aea81ce3d4ae4e709060ba300cd5cbfb07ab7738d2070ce0",
+    "data/source_catalog.json": "b6ff479aa35fbd3788aa9acf20b3eb5341862adb1b11c91c07a78f920221fe1c",
+    "data/capture_receipt.json": "3c3dc5305bed173e52eedaea040cb3e6be79e4913659a1a4959f5a22f4dc0245",
+    "data/source_contract.json": "3e46bfcd79d6ad46614f4c79036dce26794358bf58878af69b70f04e6bb82d2a",
+    "data/projection_receipt.json": "5a51da58340288d1d880072e062f972dd774b52305fa290da871bbd342cfa10a"
+  },
+  "methods": "Independent pandas C CSV parser,exact Fraction tokens,SQLite key multiplicities and CASE classification;no production ingestion import.",
+  "scope": "Complete current native-to-sufficient-count reconciliation;not original vintage,physical seconds,carrier quality or European label equivalence."
+}

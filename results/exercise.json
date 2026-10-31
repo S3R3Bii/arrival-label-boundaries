@@ -1,0 +1,100 @@
+[
+  {
+    "request": {
+      "destination": "ORD",
+      "measure": "RECORDED_MINUTE_RATE",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": true,
+      "destination": "ORD",
+      "cutoff_minutes": 15,
+      "numerator": 4989,
+      "denominator": 18805,
+      "rate_fraction": "4989/18805",
+      "source_unit": "eligible current reporting-carrier source records",
+      "physical_seconds_known": false,
+      "European_equivalence_known": false
+    }
+  },
+  {
+    "request": {
+      "destination": "ATL",
+      "measure": "RECORDED_MINUTE_RATE",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 16
+    },
+    "result": {
+      "accepted": true,
+      "destination": "ATL",
+      "cutoff_minutes": 16,
+      "numerator": 5233,
+      "denominator": 25902,
+      "rate_fraction": "5233/25902",
+      "source_unit": "eligible current reporting-carrier source records",
+      "physical_seconds_known": false,
+      "European_equivalence_known": false
+    }
+  },
+  {
+    "request": {
+      "destination": "ORD",
+      "measure": "EUROPEAN_OTP15",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": false,
+      "reason": "UNSUPPORTED_MEASURE"
+    }
+  },
+  {
+    "request": {
+      "destination": "ATL",
+      "measure": "PHYSICAL_SECOND_RATE",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": false,
+      "reason": "UNSUPPORTED_MEASURE"
+    }
+  },
+  {
+    "request": {
+      "destination": "ORD",
+      "measure": "CARRIER_SAFETY_RANK",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": false,
+      "reason": "UNSUPPORTED_MEASURE"
+    }
+  },
+  {
+    "request": {
+      "destination": "ATL",
+      "measure": "TRANSFER_SCORE",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": false,
+      "reason": "UNSUPPORTED_MEASURE"
+    }
+  },
+  {
+    "request": {
+      "destination": "MISSING",
+      "measure": "RECORDED_MINUTE_RATE",
+      "denominator": "ELIGIBLE_COMPLETED_NONDIVERTED",
+      "cutoff": 15
+    },
+    "result": {
+      "accepted": false,
+      "reason": "AIRPORT_NOT_ESTABLISHED"
+    }
+  }
+]

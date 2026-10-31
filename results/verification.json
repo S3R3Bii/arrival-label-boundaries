@@ -1,0 +1,17 @@
+{
+  "status": "PASS_FINITE_LOCAL_CHECKS",
+  "native_source_conditions": 131867,
+  "saved_source_conditions": 191424,
+  "independent_analysis_conditions": 2947,
+  "authored_fixture_methods": 29,
+  "actual_frozen_dependencies": 26,
+  "result_sha256": {
+    "airport_accounts.csv": "ca313575d09a9c923c02e3878a218d13acf0dcb1e91b0ef53b1bc7ea4258c83b",
+    "daily_accounts.csv": "9bd90213225f2f4870027d1550af8306a64230fd9a02f76d3d7ee8c5b1d8d69e",
+    "carrier_accounts.csv": "9bb90d19b68f61c3d38ed683c02d41f6cef6f1102d766a395d8b67dc2eef989c",
+    "threshold_cases.csv": "17e20d88f9acce1c80c3444b15fa1166f0fcd9398fa4cc7cbbbe5eecaf2babb4",
+    "summary.json": "482a2ffa462320ab4bff6f5f5e032560cb50460ce29dbdf4f11e472dc0d2bac1",
+    "exercise.json": "ff6e361fedbf6b3ff37db7fa7b7e196981de713442eae2a935aa2f7720ea5a2a"
+  },
+  "scope": "Finite current-source recorded-label checks;original cross-region transfer and physical seconds remain unestablished."
+}
