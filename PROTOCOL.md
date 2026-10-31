@@ -49,3 +49,10 @@ Before release, independently reconstruct every saved cell/account/ratio, offici
 Source rights/scope, complete source accounting, independent exact arithmetic, meaningful boundaries, readable full-case figures and prose, privacy and exact remote release evidence are pass/fail gates. Unknown or failed gates are not completion. Preserve failed receipts and the original transfer-study hold.
 
 One winter month and two destination codes in one reporting-carrier source are a finite convenience cohort. Results are descriptive recorded-label sensitivity, not true physical-second lateness, national reliability, carrier quality, airport causality, model calibration, a new estimator, operational deployment or measured savings. A cross-region follow-up requires threshold-resolved compatible values, aligned populations, suitable rights and verified dated availability. Separate formal-publication projects including Azure optimization remain private.
+
+
+## Direct official archive discovery — 31 October 2026, before flight-record capture
+
+The official BTS archive index at https://transtats.bts.gov/PREZIP/ lists the exact fixed January 2024 reporting-carrier archive, 27,573,265 bytes. Its indexed link is https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2024_1.zip. An ordinary HEAD returned 200 with the matching byte count before any archive body was read.
+
+This is new admissible source-access evidence after the failed form, not an unchanged form retry or a substitute dataset. Use this published direct archive link for the identical cohort. The original form failures remain preserved. Month, destinations, thresholds, eligibility, privacy, source verification, original cross-region hold and all release gates are unchanged. Source values have not yet been requested. No result is claimed from header/index availability.
