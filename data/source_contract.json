@@ -1,0 +1,46 @@
+{
+  "source": "BTS Reporting Carrier On-Time Performance (1987-present)",
+  "download_form": "https://www.transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ",
+  "year": 2024,
+  "month": 1,
+  "destinations": [
+    "ORD",
+    "ATL"
+  ],
+  "selected_fields": [
+    "Year",
+    "Month",
+    "FlightDate",
+    "Reporting_Airline",
+    "DOT_ID_Reporting_Airline",
+    "Flight_Number_Reporting_Airline",
+    "Origin",
+    "OriginAirportID",
+    "Dest",
+    "DestAirportID",
+    "CRSDepTime",
+    "ArrDelay",
+    "ArrDel15",
+    "Cancelled",
+    "Diverted"
+  ],
+  "identity_fields": [
+    "FlightDate",
+    "DOT_ID_Reporting_Airline",
+    "Flight_Number_Reporting_Airline",
+    "OriginAirportID",
+    "DestAirportID",
+    "CRSDepTime"
+  ],
+  "threshold_minutes": [
+    14,
+    15,
+    16
+  ],
+  "primary_boundary": "15 <= recorded ArrDelay < 16",
+  "denominator": "eligible current reporting-carrier completed nondiverted source records",
+  "local_clock": "source HHMM,not UTC",
+  "physical_seconds": "UNESTABLISHED",
+  "European_rate": "UNESTABLISHED",
+  "original_transfer_model": "UNEXECUTED"
+}

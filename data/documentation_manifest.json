@@ -1,0 +1,18 @@
+[
+  {
+    "file": "download.html",
+    "url": "https://www.transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ",
+    "status": 200,
+    "bytes": 170250,
+    "sha256": "2632a92e8e65dd04172f726080edcd4d58ad7233c9bfe97ab3031f81868e84c9",
+    "captured_utc": "2026-10-31T02:41:54.673350+00:00"
+  },
+  {
+    "file": "table.html",
+    "url": "https://www.transtats.bts.gov/TableInfo.asp?QO_fu146_anzr=b0-gvzr&gnoyr_VQ=FGJ",
+    "status": 200,
+    "bytes": 119270,
+    "sha256": "ae753d6dc7a6d597f1c87af169af0ffb3d75ea8918549c34ffb64cf98808c14a",
+    "captured_utc": "2026-10-31T02:41:55.165535+00:00"
+  }
+]
