@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-10-31T04:19:48.286319+00:00",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "manuscript_sha256": "36cd3ceff2558f17858b474461b0ac5d15f0523483fe42c1eb2b63e5ce0bbfdc",
+  "reviewed_figure_png_sha256": {
+    "figures/daily_boundary.png": "7d968d15c5e0e2c1fb93b350eaf30cfd6cf3ea73cdbbd5643a115dd6fc417932",
+    "figures/source_denominators.png": "417716dd74085ce0d26a8f529690c3064b39d5e1dd553047f07ec9d75c0cd861",
+    "figures/threshold_rates.png": "060a36720067696cf83ccb95c69b9889032820fd51b194ed6e3a5c9924981f3c"
+  },
+  "method": "All six actual rendered pages inspected in three paired 100-dpi images; original figure contact inspected. Final source-denominator legend moved clear of count labels, then all figures regenerated and coordinate checks rerun.",
+  "findings": "PASS: readable hierarchy and labels; complete table values; no clipping or overlap visible in the current PDF. Figure scales, units, zero labels, all 31 days and source qualifications visible. This inspection does not establish accessibility conformance."
+}

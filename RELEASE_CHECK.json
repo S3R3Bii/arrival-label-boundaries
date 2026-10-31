@@ -1,0 +1,21 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS",
+  "native_conditions": 131867,
+  "saved_source_conditions": 191424,
+  "independent_analysis_conditions": 2947,
+  "authored_fixture_methods": 29,
+  "selected_source_records": 46621,
+  "eligible_records": 44707,
+  "boundary_records": 275,
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "physical_second_equivalence": "UNESTABLISHED",
+  "original_cross_region_transfer": "UNEXECUTED",
+  "candidate_main_CI_tag_metadata": "PENDING",
+  "not_peer_reviewed": true
+}

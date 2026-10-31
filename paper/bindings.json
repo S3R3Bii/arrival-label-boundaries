@@ -1,0 +1,720 @@
+[
+  {
+    "name": "BoundA",
+    "file": "results/summary.json",
+    "field": [
+      "boundary_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "275"
+  },
+  {
+    "name": "BoundB",
+    "file": "results/summary.json",
+    "field": [
+      "eligible_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "44,707"
+  },
+  {
+    "name": "BoundC",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_15_to_16"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "131"
+  },
+  {
+    "name": "BoundD",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "18,805"
+  },
+  {
+    "name": "BoundE",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "boundary_fraction"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "percent3",
+    "display": "0.697"
+  },
+  {
+    "name": "BoundF",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_15_to_16"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "144"
+  },
+  {
+    "name": "BoundG",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "25,902"
+  },
+  {
+    "name": "BoundH",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "boundary_fraction"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "percent3",
+    "display": "0.556"
+  },
+  {
+    "name": "BoundI",
+    "file": "results/summary.json",
+    "field": [
+      "national_source_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "547,271"
+  },
+  {
+    "name": "BoundJ",
+    "file": "results/summary.json",
+    "field": [
+      "selected_source_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "46,621"
+  },
+  {
+    "name": "BoundK",
+    "file": "results/summary.json",
+    "field": [
+      "sufficient_cells"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "21,303"
+  },
+  {
+    "name": "BoundL",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "20,327"
+  },
+  {
+    "name": "BoundM",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "source_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "26,294"
+  },
+  {
+    "name": "BoundN",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "18,805"
+  },
+  {
+    "name": "BoundO",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "eligible_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "25,902"
+  },
+  {
+    "name": "BoundP",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "missing_key_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundQ",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "missing_key_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundR",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "duplicate_key_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundS",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "duplicate_key_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundT",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "unknown_operation_flag_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundU",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "unknown_operation_flag_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundV",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "both_operation_flags_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundW",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "both_operation_flags_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundX",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "cancelled_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "1,479"
+  },
+  {
+    "name": "BoundY",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "cancelled_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "311"
+  },
+  {
+    "name": "BoundZ",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "diverted_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "43"
+  },
+  {
+    "name": "BoundAA",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "diverted_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "81"
+  },
+  {
+    "name": "BoundAB",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "unknown_delay_records"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAC",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "unknown_delay_records"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAD",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_known"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "18,805"
+  },
+  {
+    "name": "BoundAE",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_known"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "25,902"
+  },
+  {
+    "name": "BoundAF",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_unknown"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAG",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_unknown"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAH",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_mismatch"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAI",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "official_indicator_mismatch"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "BoundAJ",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge14"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "5,122"
+  },
+  {
+    "name": "BoundAK",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge14"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "5,571"
+  },
+  {
+    "name": "BoundAL",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge14"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "percent2",
+    "display": "27.24"
+  },
+  {
+    "name": "BoundAM",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge14"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "percent2",
+    "display": "21.51"
+  },
+  {
+    "name": "BoundAN",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge15"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "4,989"
+  },
+  {
+    "name": "BoundAO",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge15"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "5,377"
+  },
+  {
+    "name": "BoundAP",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge15"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "percent2",
+    "display": "26.53"
+  },
+  {
+    "name": "BoundAQ",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge15"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "percent2",
+    "display": "20.76"
+  },
+  {
+    "name": "BoundAR",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge16"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "commas",
+    "display": "4,858"
+  },
+  {
+    "name": "BoundAS",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "count_ge16"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "commas",
+    "display": "5,233"
+  },
+  {
+    "name": "BoundAT",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge16"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "percent2",
+    "display": "25.83"
+  },
+  {
+    "name": "BoundAU",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "rate_ge16"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "percent2",
+    "display": "20.20"
+  },
+  {
+    "name": "BoundAV",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "boundary_fraction_of_ge15"
+    ],
+    "query": {
+      "destination": "ORD"
+    },
+    "operation": "percent2",
+    "display": "2.63"
+  },
+  {
+    "name": "BoundAW",
+    "file": "results/airport_accounts.csv",
+    "field": [
+      "boundary_fraction_of_ge15"
+    ],
+    "query": {
+      "destination": "ATL"
+    },
+    "operation": "percent2",
+    "display": "2.68"
+  },
+  {
+    "name": "BoundAX",
+    "file": "results/summary.json",
+    "field": [
+      "airport_days"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "62"
+  },
+  {
+    "name": "BoundAY",
+    "file": "results/summary.json",
+    "field": [
+      "airport_carrier_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "26"
+  },
+  {
+    "name": "BoundAZ",
+    "file": "results/summary.json",
+    "field": [
+      "threshold_cases"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "270"
+  },
+  {
+    "name": "BoundBA",
+    "file": "results/verification.json",
+    "field": [
+      "native_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "131,867"
+  },
+  {
+    "name": "BoundBB",
+    "file": "results/verification.json",
+    "field": [
+      "saved_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "191,424"
+  },
+  {
+    "name": "BoundBC",
+    "file": "results/verification.json",
+    "field": [
+      "independent_analysis_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "2,947"
+  },
+  {
+    "name": "BoundBD",
+    "file": "results/verification.json",
+    "field": [
+      "actual_frozen_dependencies"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "26"
+  },
+  {
+    "name": "BoundBE",
+    "file": "results/verification.json",
+    "field": [
+      "authored_fixture_methods"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "29"
+  },
+  {
+    "name": "BoundBF",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.10.11"
+  },
+  {
+    "name": "BoundBG",
+    "file": "results/reproduction_cpython312.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "3.12.14"
+  },
+  {
+    "name": "BoundBH",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "reproduced_files"
+    ],
+    "query": null,
+    "operation": "length",
+    "display": "6"
+  },
+  {
+    "name": "BoundBI",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "unchanged_source_files"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "10"
+  },
+  {
+    "name": "BoundBJ",
+    "file": "figures/verification.json",
+    "field": [
+      "source_bound_artists"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "90"
+  },
+  {
+    "name": "BoundBK",
+    "file": "figures/verification.json",
+    "field": [
+      "svg_coordinate_conditions"
+    ],
+    "query": null,
+    "operation": "value",
+    "display": "360"
+  }
+]

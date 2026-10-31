@@ -1,0 +1,11 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "public_files": {
+    "paper/main.tex": "f414ad94c65efa40d39e0f853234c5cffe8e8f97e9e4cd1f6b258cffab5e46f9",
+    "paper/manuscript.pdf": "36cd3ceff2558f17858b474461b0ac5d15f0523483fe42c1eb2b63e5ce0bbfdc",
+    "paper/images/daily_boundary.pdf": "1f261d696c5ab7906e52c8a86e31d976c1d017d54a68baf2144b62f5821f047f",
+    "paper/images/source_denominators.pdf": "d958b361cc75e7855373657d95ee1f61508c8f5a517b19fac3d4b5e8111875c3",
+    "paper/images/threshold_rates.pdf": "e072a12d10942213a456e2e73c06bdd54e9e052f0bb9e8686c4e28061f86a2ca"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "reproduced_files": [
+    "airport_accounts.csv",
+    "daily_accounts.csv",
+    "carrier_accounts.csv",
+    "threshold_cases.csv",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 10,
+  "native_redownload": false,
+  "scope": "Frozen minimal current source replay, not independent reacquisition or original-vintage evidence.",
+  "checkout_head": "e2225489a343757e02126842cfa350a275c8ef50",
+  "full_history": true
+}
