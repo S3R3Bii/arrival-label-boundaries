@@ -1,0 +1,16 @@
+{
+  "national_source_records": 547271,
+  "selected_source_records": 46621,
+  "sufficient_cells": 21303,
+  "airports": 2,
+  "airport_days": 62,
+  "airport_carrier_cases": 26,
+  "threshold_cases": 270,
+  "eligible_records": 44707,
+  "boundary_records": 275,
+  "official_indicator_mismatches": 0,
+  "original_cross_region_transfer": "UNEXECUTED",
+  "physical_seconds": "UNESTABLISHED",
+  "European_rate": "UNESTABLISHED",
+  "qualification": "One current reporting-carrier source month,two fixed destination codes;recorded-minute sensitivity,not physical-second or Europe-matched target conversion."
+}
